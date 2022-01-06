@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>KubeVela Blog</title>
+        <link>https://kubevela.io/blog</link>
+        <description>KubeVela Blog</description>
+        <lastBuildDate>Sun, 10 Oct 2021 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[基于 KubeVela 的 GitOps 交付]]></title>
+            <link>https://kubevela.io/zh/blog/2021/10/10/kubevela-gitops</link>
+            <guid>基于 KubeVela 的 GitOps 交付</guid>
+            <pubDate>Sun, 10 Oct 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[KubeVela 1.1 发布，开启混合环境应用持续交付新里程碑]]></title>
+            <link>https://kubevela.io/zh/blog/2021/10/08/blog-1.1</link>
+            <guid>KubeVela 1.1 发布，开启混合环境应用持续交付新里程碑</guid>
+            <pubDate>Fri, 08 Oct 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[使用 Jenkins + KubeVela 完成应用的持续交付]]></title>
+            <link>https://kubevela.io/zh/blog/2021/09/02/kubevela-jenkins-cicd</link>
+            <guid>使用 Jenkins + KubeVela 完成应用的持续交付</guid>
+            <pubDate>Thu, 02 Sep 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[KubeVela Performance Test - Managing Massive Applications]]></title>
+            <link>https://kubevela.io/zh/blog/2021/08/30/kubevela-performance-test</link>
+            <guid>KubeVela Performance Test - Managing Massive Applications</guid>
+            <pubDate>Mon, 30 Aug 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[KubeVela is demonstrated to be able to host thousands of applications effectively with limited resources.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[KubeVela 正式开源：一个高可扩展的云原生应用平台与核心引擎]]></title>
+            <link>https://kubevela.io/zh/blog/2020/12/07/kubevela-the-extensible-app-platform-based-on-open-application-model-and-kubernetes</link>
+            <guid>KubeVela 正式开源：一个高可扩展的云原生应用平台与核心引擎</guid>
+            <pubDate>Mon, 07 Dec 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[The Extensible App Platform Based on Open Application Model and Kubernetes]]></description>
+        </item>
+    </channel>
+</rss>
