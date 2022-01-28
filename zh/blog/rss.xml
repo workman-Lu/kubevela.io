@@ -4,9 +4,15 @@
         <title>KubeVela Blog</title>
         <link>https://kubevela.io/blog</link>
         <description>KubeVela Blog</description>
-        <lastBuildDate>Sun, 10 Oct 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KubeVela v1.2 发布：聚焦开发者体验，轻松发布你的多集群应用]]></title>
+            <link>https://kubevela.io/zh/blog/2022/01/27/blog-1.2</link>
+            <guid>KubeVela v1.2 发布：聚焦开发者体验，轻松发布你的多集群应用</guid>
+            <pubDate>Thu, 27 Jan 2022 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[基于 KubeVela 的 GitOps 交付]]></title>
             <link>https://kubevela.io/zh/blog/2021/10/10/kubevela-gitops</link>

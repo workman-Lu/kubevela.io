@@ -1,1 +1,0 @@
-(self.webpackChunkkubevela_io=self.webpackChunkkubevela_io||[]).push([[45223],{74073:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/zh/blog/tags","slug":"dev-ops","name":"devops","count":1,"permalink":"/zh/blog/tags/dev-ops"}')}}]);
