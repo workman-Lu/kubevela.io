@@ -157,7 +157,11 @@ helm repo update
 2. Install KubeVela Core
 
 ```shell script
+#helm >= v3.2.0
 helm install --create-namespace -n vela-system kubevela kubevela/vela-core --version 1.2.2 --wait
+#helm < v3.2.0
+kubectl create ns vela-system
+helm install -n vela-system kubevela kubevela/vela-core --version 1.2.2 --wait
 ```
 
 3. Verify KubeVela Core installation
